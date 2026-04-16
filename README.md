@@ -140,3 +140,6 @@ The app internally uses two features for visualization:
 - Scikit-learn for classic ML models and dataset generators
 - Matplotlib for 2D/3D plotting and animations
 - Gradio for the interactive UI
+
+ ##  video tutorial
+  https://drive.google.com/file/d/1YEv5OPH3j9cYWP3l0jWZZuny31KvFye0/view?usp=sharing
