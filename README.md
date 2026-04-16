@@ -14,6 +14,9 @@ Built with Scikit-learn + Matplotlib + Gradio for an interactive, hands-on ML le
 
 ## ✨ What you can do
 <img width="360" height="312" alt="image" src="https://github.com/user-attachments/assets/21fa6923-5e76-4df5-b691-25e882c5bc8d" />
+
+
+
 Choose a task type
 
 - Linear classification (e.g., Logistic Regression, Linear SVM, Perceptron, LDA)
