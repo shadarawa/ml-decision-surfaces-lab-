@@ -5,8 +5,15 @@ Interactive playground for linear, nonlinear, and regression models — with ric
 
 Built with Scikit-learn + Matplotlib + Gradio for an interactive, hands-on ML learning experience.
 
-## ✨ What you can do
+<img width="241" height="526" alt="image" src="https://github.com/user-attachments/assets/6e60eccf-8744-499f-98e2-409eba6c321d" />
+<img width="1754" height="803" alt="image" src="https://github.com/user-attachments/assets/443a6c24-dd47-41c5-b979-665582cd8d1c" />
 
+<img width="1039" height="904" alt="image" src="https://github.com/user-attachments/assets/67527292-1bb9-456e-9b98-42787d458176" />
+
+
+
+## ✨ What you can do
+<img width="360" height="312" alt="image" src="https://github.com/user-attachments/assets/21fa6923-5e76-4df5-b691-25e882c5bc8d" />
 Choose a task type
 
 - Linear classification (e.g., Logistic Regression, Linear SVM, Perceptron, LDA)
